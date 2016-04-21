@@ -1,0 +1,28 @@
+name: Moneta
+favicon: null
+layout_spectrum: 0.25708669563755393
+typography_spectrum: 0.20761708496138453
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.29857504344545305
+  lightness: 0.25123801128938794
+  saturation: 0.8665384047199041
+  rhythmicContrast: 0.6297574141062796
+purpose: []
